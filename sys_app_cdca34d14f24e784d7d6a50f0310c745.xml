@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Scientific Computing Unit">1dca78194f24e784d7d6a50f0310c7d9</menu>
+        <name>Scientific Computing Unit</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_wermc_scientific</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_wermc_scientific</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>dfp2001</sys_created_by>
+        <sys_created_on>2018-09-13 16:36:44</sys_created_on>
+        <sys_id>cdca34d14f24e784d7d6a50f0310c745</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dfp2001</sys_updated_by>
+        <sys_updated_on>2018-09-13 16:36:44</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_wermc_scientific.user" name="x_wermc_scientific.user">19cab0594f24e784d7d6a50f0310c72b</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
